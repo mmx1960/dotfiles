@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = 347328331@qq.com
+	name = Zhang zichao
